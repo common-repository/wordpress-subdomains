@@ -1,0 +1,25 @@
+TODO
+
+Next Releases
+
+* Create HOWTO for setting up the plugin
+
+Down the Line
+
+* Redirect Old Post links
+
+* Check compatibility with popular plugins
+
+* Remove category base
+
+* Recent Posts filter
+
+* Calendar filter
+
+* Add plugin options for recent posts and calendar filters
+
+* Subdomains List function
+	provides list like sitelist widget but as just a list
+	will be used in sitelist widget and can be used in themes
+
+* Post has subdomain preference option if you pick more than one subdomain cat - could be tricky
